@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dem_nm">Demo Name</string>
+    <string name="amount_20340_rs">Amount : 20340 Rs</string>
+    <string name="acc_no">2312376483</string>
+    <string name="email_dm">Email : joymajumdar15@gmail.com</string>
+    <string name="mob_dm">+918116832026</string>
+    <string name="current_balance_200769">Current Balance : $200769</string>
+    <string name="address">Address : Shubhas Corner, Balurghat, South Dinajpur, West Bengal, 733101</string>
+    <string name="transfer_money">Transfer Money</string>
+    <string name="transferring_to_account"><![CDATA[Transferring to account -->]]></string>
+    <string name="enter_amount">Enter Amount</string>
+</resources>
